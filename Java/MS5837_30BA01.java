@@ -8,8 +8,6 @@ import com.pi4j.io.i2c.I2CBus;
 import com.pi4j.io.i2c.I2CDevice;
 import com.pi4j.io.i2c.I2CFactory;
 import java.io.IOException;
-import java.text.DecimalFormat;
-import java.text.NumberFormat;
 
 public class MS5837_30BA01
 {
@@ -108,5 +106,5 @@ public class MS5837_30BA01
 		System.out.printf("Pressure : %.2f mbar %n", pressure);
 		System.out.printf("Temperature in Celsius : %.2f C %n", cTemp);
 		System.out.printf("Temperature in Fahrenheit : %.2f C %n", fTemp);
-		}
+	}
 }
