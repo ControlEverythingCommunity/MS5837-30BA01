@@ -8,7 +8,7 @@ This Device is available from ControlEverything.com [SKU: MS5837-30BA01_I2CS]
 
 https://www.controleverything.com/content/Pressure?sku=MS5837-30BA01_I2CS
 
-This Sample code can be used with Raspberry Pi and Arduino, Beaglebone Black and Onion Omega.
+This Sample code can be used with Raspberry Pi and Arduino and Onion Omega.
 
 ## Java
 Download and install pi4j library on Raspberry pi. Steps to install pi4j are provided at:
